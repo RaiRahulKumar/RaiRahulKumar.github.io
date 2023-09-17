@@ -161,7 +161,9 @@ img {
   background-color: var(--first-color);
 }
 
-
+.nav__logo {
+  color: var(--second-color);
+}
 
 .nav__toggle {
   color: var(--second-color);
