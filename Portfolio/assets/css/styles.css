@@ -164,13 +164,6 @@ img {
 .nav__logo {
   color: var(--second-color);
 }
-/* .nav__logo a {
-  text-decoration: none; /* Remove underlines from the link */
-/* } */
-
-/* .nav__logo img {
-  display: block; /* Make the image a block element */
-/* } */  
 
 .nav__toggle {
   color: var(--second-color);
